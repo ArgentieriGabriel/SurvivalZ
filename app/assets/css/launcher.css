@@ -1708,6 +1708,7 @@ input:checked + .toggleSwitchSlider:before {
 #settingsOptModsContainer,
 #settingsDropinModsContainer {
     padding-bottom: 25px;
+    display: none;
 }
 
 /* Main content containers for mod elements. */
